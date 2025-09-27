@@ -13,3 +13,6 @@ https://pitchgrade.com/
 
 ## Генерація презентацій
 https://gamma.app/
+
+## Сервіс транскрибацій
+https://tldv.io/
